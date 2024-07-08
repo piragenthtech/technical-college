@@ -80,7 +80,7 @@ body {
 .videoangle:hover {
   width: auto;
   height: 300px;
-  transform: rotateX(0deg) scale(2);
+  transform: perspective(10px) rotateX(0deg) scale(2);
 }
 
 .trapezoid2 {

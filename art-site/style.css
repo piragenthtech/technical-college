@@ -5,6 +5,7 @@ body {
 
 .header {
   margin: 30px;
+  margin-top: 70px;
 }
 
 .header logo {
@@ -19,7 +20,7 @@ body {
   margin: 10px;
   float: right;
   text-decoration: none;
-  padding: 5px;
+  padding: 10px;
   padding-left: 15px;
   padding-right: 15px;
   font-size: 20px;
@@ -34,10 +35,17 @@ body {
   background-color: black;
   color: white;
   transform: scale(1.2);
+  border-width: 0px;
 }
 
 .line {
   width: 100%;
   height: 1px;
   background-color: black;
+}
+
+.image1 {
+  width: 20%;
+  margin-top: 30px;
+  border-radius: 5px;
 }
