@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>jsvalidationnum</title>
+  </head>
+  <body>
+    <h1>jsvalidationnum</h1>
+    <p>please input a number between 1 and 10</p>
+    <input type="number" id="num">
+    <button type="button"  onclick="myfunction()">click here</button>
+    <p id="numout"></p>
+    <script>
+      function myfunction() {
+        let text;
+        let x = document.getElementById("num").value;
+        if (x > 10 || x < 1) {
+          text = "input is not valid";
+        } else {
+          text = "input is valid";
+        }
+        document.getElementById("numout").innerHTML = text;
+      }
+    </script>
+  </body>
+</html>
