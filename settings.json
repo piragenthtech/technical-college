@@ -1,0 +1,19 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 19,
+  "editor.cursorBlinking": "expand",
+  "terminal.integrated.cursorBlinking": true,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.cursorStyle": "line",
+  "git.enableSmartCommit": true,
+  "workbench.colorTheme": "Dracula",
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "editor.fontLigatures": false,
+  "window.customTitleBarVisibility": "auto",
+  "explorer.confirmDelete": false,
+  "settingsSync.ignoredExtensions": []
+}
