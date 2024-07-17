@@ -1,0 +1,9 @@
+software architect develop
+
+* high level design. eg:- software developer life cycle, architecture patterns , modules and interaction between components
+
+* Requirement analysis. eg:- 
+
+feacibility study
+
+proto typing 
