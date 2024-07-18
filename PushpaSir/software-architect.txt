@@ -3,34 +3,27 @@ software architect
 
 high level design. planning and organizing a software system.
 
-
-
-software architect analyse deeply about functional requirements and potential technical risk such as social responsibilty .
-
-	social responsibilty :- avoiding adiction to the software eg:- youtube and instagram timer,privacy and data 									
-				protection
-
-	technical risk :- time schedule risk,budget risk budget under estimation and improper buget distribution to each dev team, performace 						
-				frequent changes in requirements, future usability communication.
-
-
-
-translate ideas and requirements into technical task and distribute them to the development team.
-
-
-
-provide detailed blueprints and documentation to the dev team.
-
-
-software developer life cycle, pseudocode , architecture patterns , modules and interaction between components
-
+software developer are the one who is responsible for create software life cycle model, pseudocode ,ER diagram, architecture patterns , modules and interaction between components
 
 feacibility study
+
+software architect analyse about functional requirements and addressing potential technical risk
+
+	technical risk :- time schedule risk,budget risk budget under estimation and improper buget distribution to each dev team, performace 						
+
+frequent changes in requirements, future usability ,communication.
 
 
 prototyping 
 
 regular code inspection 
+
+translate ideas and requirements into technical task and distribute them to the development team.
+
+
+provide detailed blueprints and documentation to the dev team.
+
+
 
 software architect require problem solving skills ,organization skills ,leadership and communication
 
@@ -41,6 +34,8 @@ software architect work closely with other project team members.
 
 responsibilty:
 
+	
+
    - research technical standard and tool for specific project
 
    - Separting a projects goal into serveral smaller solvale problems
@@ -48,3 +43,8 @@ responsibilty:
    - communication between dev teams when requirement changes
    
    - testing segments of project code and checking for errors during quality assurance periods.
+	
+	Ensuring that the software system is scalable, maintainable, and secure by making high-level design choices and setting technical standards for the project.
+
+	social responsibilty :- avoiding adiction to the software eg:- youtube and instagram timer,privacy and data 									
+				protection
