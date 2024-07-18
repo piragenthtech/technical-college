@@ -1,9 +1,50 @@
-software architect develop
+software architect 
 
-* high level design. eg:- software developer life cycle, architecture patterns , modules and interaction between components
 
-* Requirement analysis. eg:- 
+high level design. planning and organizing a software system.
+
+
+
+software architect analyse deeply about functional requirements and potential technical risk such as social responsibilty .
+
+	social responsibilty :- avoiding adiction to the software eg:- youtube and instagram timer,privacy and data 									
+				protection
+
+	technical risk :- time schedule risk,budget risk budget under estimation and improper buget distribution to each dev team, performace 						
+				frequent changes in requirements, future usability communication.
+
+
+
+translate ideas and requirements into technical task and distribute them to the development team.
+
+
+
+provide detailed blueprints and documentation to the dev team.
+
+
+software developer life cycle, pseudocode , architecture patterns , modules and interaction between components
+
 
 feacibility study
 
-proto typing 
+
+prototyping 
+
+regular code inspection 
+
+software architect require problem solving skills ,organization skills ,leadership and communication
+
+software architect work closely with other project team members.
+
+
+
+
+responsibilty:
+
+   - research technical standard and tool for specific project
+
+   - Separting a projects goal into serveral smaller solvale problems
+
+   - communication between dev teams when requirement changes
+   
+   - testing segments of project code and checking for errors during quality assurance periods.
