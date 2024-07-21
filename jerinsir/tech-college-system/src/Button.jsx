@@ -1,15 +1,10 @@
 function Button() {
-  const styles = {
-    backgroundColor: "hsl(200, 100%, 50%)",
-    color: "white",
-    padding: "10px 20px",
-    borderRadius: "5px",
-    border: "none",
-    cursor: "pointer",
-  };
+  const handleClick = (name,e) => name.target.textContent="ouch";
+
   return (
     <>
-      <button style={styles}>Click me</button>
+      {/* <button onClick={handleClick}>Click Me</button> */}
+      <button onClick={(name,e) => handleClick(name,e)}>Click Me</button>
     </>
   );
 }
