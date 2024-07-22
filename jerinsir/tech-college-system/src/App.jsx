@@ -12,6 +12,7 @@ function App() {
           <Route path="/students" element={<Inputform />}></Route>
         </Routes>
       </Router>
+      <Inputform />
     </>
   );
 }
