@@ -6,12 +6,14 @@ import Inputform from "./components/Students/Inputform";
 function App() {
   return (
     <>
+    
       <Router>
         <Routes>
           <Route path="/" element={<Header />}></Route>
-          <Route path="/students" element={<Inputform />}></Route>
+          {/* <Route path="/students" element={<Inputform />}></Route> */}
         </Routes>
       </Router>
+      <Inputform />
     </>
   );
 }
