@@ -2,6 +2,7 @@ import * as React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Header from "./components/Header";
 import Inputform from "./components/Students/Inputform";
+import Testform from "./components/Testform";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         </Routes>
       </Router>
       <Inputform />
+      <Testform />
     </>
   );
 }
