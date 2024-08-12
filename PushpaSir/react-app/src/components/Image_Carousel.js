@@ -7,8 +7,10 @@ export default function Image_Carousel() {
     <div
       style={{
         display: "block",
+        margin: "auto",
+        // border: "3px solid black",
         justifyContent: "center",
-        width: "90%",
+        width: "100%",
         padding: 30,
       }}
     >
