@@ -1,16 +1,26 @@
 // import logo from './logo.svg';
 import "bootstrap/dist/css/bootstrap.css";
+import { Routes, Route, BrowserRouter } from "react-router-dom";
+
 import NavBar from "./components/NavBar";
-import Counter from "./components/Counter";
-import Forms from "./components/Forms";
-import Image_Carousel from "./components/Image_Carousel";
+import Footer from "./components/Footer";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
+import Departments from "./pages/Departments";
 function App() {
   return (
     <div className="App">
       <NavBar />
-      <Counter />
-      <Forms />
-      <Image_Carousel />
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="About" element={<About />} />
+          <Route path="Contact" element={<Contact />} />
+          <Route path="Departments" element={<Departments />} />
+        </Routes>
+      </BrowserRouter>
+      <Footer />
     </div>
   );
 }
