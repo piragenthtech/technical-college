@@ -8,6 +8,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Departments from "./pages/Departments";
+import Calculator from "./pages/Calculator";
 function App() {
   return (
     <div className="App">
@@ -18,6 +19,7 @@ function App() {
           <Route path="About" element={<About />} />
           <Route path="Contact" element={<Contact />} />
           <Route path="Departments" element={<Departments />} />
+          <Route path="Calculator" element={<Calculator />} />
         </Routes>
       </BrowserRouter>
       <Footer />
