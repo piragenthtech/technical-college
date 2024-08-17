@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fafc8537.css",
+    "main.js": "/static/js/main.72f0c94f.js",
+    "static/js/453.2a82e7ac.chunk.js": "/static/js/453.2a82e7ac.chunk.js",
+    "static/media/virat-bat.gif": "/static/media/virat-bat.e4c439867ade03b7f9d4.gif",
+    "static/media/kohli-dance.gif": "/static/media/kohli-dance.b79b9381316b77b6fc63.gif",
+    "static/media/time-to-balance-hungry-of-runs-virat-kohli.gif": "/static/media/time-to-balance-hungry-of-runs-virat-kohli.dd399a2f637b4be1fa26.gif",
+    "static/media/2023-porsche-911-gt3-rs.jpg": "/static/media/2023-porsche-911-gt3-rs.69381d79eb5c463a2f3b.jpg",
+    "static/media/porsche-911-gt3-rs-2022.jpg": "/static/media/porsche-911-gt3-rs-2022.f9a4fda09f3420ed1b37.jpg",
+    "static/media/porsche-911-gt3-rs-2022-2.jpg": "/static/media/porsche-911-gt3-rs-2022-2.57c9fd8829e18b527dd3.jpg",
+    "index.html": "/index.html",
+    "main.fafc8537.css.map": "/static/css/main.fafc8537.css.map",
+    "main.72f0c94f.js.map": "/static/js/main.72f0c94f.js.map",
+    "453.2a82e7ac.chunk.js.map": "/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fafc8537.css",
+    "static/js/main.72f0c94f.js"
+  ]
+}
